@@ -1,0 +1,7 @@
+/home/ongraph/poc/SampleDotNetApp/publish/SampleDotNetApp
+/home/ongraph/poc/SampleDotNetApp/publish/appsettings.Development.json
+/home/ongraph/poc/SampleDotNetApp/publish/appsettings.json
+/home/ongraph/poc/SampleDotNetApp/publish/SampleDotNetApp.dll
+/home/ongraph/poc/SampleDotNetApp/publish/SampleDotNetApp.deps.json
+/home/ongraph/poc/SampleDotNetApp/publish/SampleDotNetApp.runtimeconfig.json
+/home/ongraph/poc/SampleDotNetApp/publish/SampleDotNetApp.pdb
